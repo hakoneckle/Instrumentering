@@ -1,3 +1,3 @@
 - **Course**: Instrumentation at NTNU, spring 2022
 - **Type**: Project
-- **About**: Temperature sensor/alarm
+- **About**: Temperature sensor/alarm, with code written for Arduino.
